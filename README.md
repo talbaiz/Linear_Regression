@@ -23,7 +23,7 @@ the dataset was taken from kaggle and containing the following features:
 | number of reviews         | The number of reviews of the product                                            |
 | love                      | The number of people loving the product                                         |
 | price                     | The price of the product                                                        |
-| value_price               | The value price of the product (for discounted products                         |
+| value_price               | The value price of the product (for discounted products)                        |
 | details                   | The details of the product available on the website                             |
 | ingredients	              | The ingredients of the product if available                                     |
 | online_only               | If the product is sold online only                                              |
