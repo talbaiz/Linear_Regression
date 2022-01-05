@@ -2,7 +2,7 @@
 
 # Sephora Predict Product Price
 
-<img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="600" /> 
+<img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="400" /> 
 
 # Introduction:
 
