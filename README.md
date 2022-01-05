@@ -1,6 +1,6 @@
 ## Regression
 
-<img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="300" height="250" />
+<img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="600" />
 
 # Sephora Predict Product Price 
 # Abstract:
@@ -41,6 +41,4 @@ the dataset was taken from kaggle and containing the following features:
 The second project - T5 Data Science Bootcamp
 
 By:
-Taghreed Albaiz 
-Wafa Albattah
-Leena Alshwaihi
+Taghreed Albaiz & Wafa Albattah & Leena Alshwaihi
