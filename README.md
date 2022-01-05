@@ -1,15 +1,15 @@
-## Regression
+# Regression
 
 # Sephora Predict Product Price
 
 <img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="400" /> 
 
-# Introduction:
+## Introduction:
 
 Sephora represents one of the largest marketplaces on the world. People use its products on a daily basis to order skin care, makeup, perfumes, and even web hosting services.
 
 
-# Data Description:
+## Data Description:
 the dataset was taken from kaggle and containing the following features:
 
 | Field Name                | Description                                                                     |
@@ -33,7 +33,7 @@ the dataset was taken from kaggle and containing the following features:
 
 
 
-# Tools:
+## Tools:
 
 - Pandas and Numpy for data manipulation.
 - Sklearn for linear regression.
