@@ -3,9 +3,11 @@
 <img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="600" />
 
 # Sephora Predict Product Price 
-# Abstract:
 
-The objective of this project is to apply a linear regression model on a Sephora site to predict product Ratings based on many features (brand name, price, category etc.). Predicting product reviews aim is to deal with the reviews of user and predict its sentiment as Positive or Negative. lives. Exchanging groups, helping at work, bringing activism into work, bringing activism into individuals - all this is an axe part of our identity as a sustainable company. As a publicly traded company, Lava believes in striking a balance. between business and social amenities
+# Introduction:
+
+Sephora represents one of the largest marketplaces on the world. People use its products on a daily basis to order skin care, makeup, perfumes, and even web hosting services.
+
 
 # Data Describition:
 the dataset was taken from kaggle and containing the following features:
@@ -40,5 +42,5 @@ the dataset was taken from kaggle and containing the following features:
 -----------------------------------------------------
 The second project - T5 Data Science Bootcamp
 
-By:
+By:<br />
 Taghreed Albaiz & Wafa Albattah & Leena Alshwaihi
