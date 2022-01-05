@@ -9,7 +9,7 @@
 Sephora represents one of the largest marketplaces on the world. People use its products on a daily basis to order skin care, makeup, perfumes, and even web hosting services.
 
 
-# Data Describition:
+# Data Description:
 the dataset was taken from kaggle and containing the following features:
 
 | Field Name                | Description                                                                     |
